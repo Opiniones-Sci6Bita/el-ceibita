@@ -116,14 +116,14 @@ header table.linklist
 list-style: none;
 }
 
-header table.linklist td
+.linklist p
 {
 border-top: solid 1px #EEEEEE;
 padding-top: 5px;
 margin: 5px 0px 0px 0px;
 }
 
-header table.linklist td.first
+.linklist p.first
 {
 border-top: 0px;
 margin-top: 0px;

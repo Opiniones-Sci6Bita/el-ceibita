@@ -1,6 +1,6 @@
 ## El ceibita
 
-**El ceibita** es integrante del grupo ```Opiniones Sci6Bita```, las opiniones aquí vertidas son absolutamente responsabilidad de `Opiniones Sci6Bita`.
+**El ceibita** es integrante del grupo ``` markdown Opiniones Sci6Bita```, las opiniones aquí vertidas son absolutamente responsabilidad de `Opiniones Sci6Bita`.
 
 Para estar protegido se recomienda pertenecer a una organización que protega los individuos miembros de la agrupación a través de que la organización constituye una persona jurídica. La cual tiene responsabilidad en lo legal y en lo contractual. Lo que quiere decir que tiene responsabilidad legal en todo lo que aquí se dica y puede ser una parte en un negocio comercial y pasar a ser propieterio económico de bienes.
 

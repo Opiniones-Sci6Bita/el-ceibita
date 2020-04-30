@@ -22,12 +22,7 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <p style="font-weight: 900;">Sci6Bita es una agencia de opiniones integrada por el ceibita</p>
-        
-          
-              <a href="/about.html"><p style="font-size: 20px;">About</p></a>
-            
-              <a href="/sci6bita.html"><p style="font-size: 20px;">Sci6Bita</p></a>
-            
+        {% include vertical-menu.html %}
        
 
         {% if site.github.is_project_page %}

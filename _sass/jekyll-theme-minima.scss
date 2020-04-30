@@ -111,19 +111,19 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header ul.linklist
+header table.linklist
 {
 list-style: none;
 }
 
-header ul.linklist li
+header table.linklist td
 {
 border-top: solid 1px #EEEEEE;
 padding-top: 5px;
 margin: 5px 0px 0px 0px;
 }
 
-header ul.linklist li.first
+header table.linklist td.first
 {
 border-top: 0px;
 margin-top: 0px;
